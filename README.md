@@ -25,16 +25,16 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 2: VPC and Networking Components
 
-##### 2.1 **VPC Configuration:**
+##### [2.1 VPC Introduction](./Module-2/2.1-VPC-Introduction.md)
 
-- Creating and configuring a VPC.
+- CIDR, Subnets, Route Tables, Internet Gateway, NAT
 - VPC peering and routing.
-- Understanding IaaS (Infrastructure as a Service) in the context of VPC.
-
-##### 2.2 **Security in VPC:**
-
 - Network Access Control Lists (NACLs) vs. Security Groups.
+
+##### [2.2 Some Imp Topics in VPC](./Module-2/2.2-Some-Imp-Topics.md)
+
 - Best practices for securing VPCs.
+- Understanding IaaS in the context of VPC.
 
 ### Module 3: Connectivity Options
 
