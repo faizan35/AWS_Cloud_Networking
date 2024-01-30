@@ -6,22 +6,21 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 1: Introduction to AWS and Cloud Networking Basics
 
-##### 1.1 **Introduction to AWS:**
+##### [1.1 Introduction to AWS](./Module-1/1.1-Introduction_to-AWS.md)
 
 - Overview of AWS services.
-- Navigating the AWS Management Console.
 - AWS Global Infrastructure.
-
-##### 1.2 **Foundations of Cloud Networking:**
-
 - Regions, Availability Zones, and Edge Locations.
+
+##### [1.2 Foundations of Cloud Networking](./Module-1/1.2-Foundations-Cloud-Networking.md)
+
 - Elastic Load Balancing (ELB) basics.
 - Virtual Private Cloud (VPC) fundamentals.
 - Introduction to IaaS, PaaS, and SaaS.
 
-##### 1.3 **Serverless Computing:**
+##### [1.3 Serverless Computing](./Module-1/1.3-Serverless-Computing.md)
 
-- Introduction to AWS Lambda and serverless architecture.
+- Serverless Architecture in AWS
 - Integrating serverless functions into your network design.
 
 ### Module 2: VPC and Networking Components
