@@ -49,7 +49,6 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 - AWS Direct Connect Vs AWS VPN
 - Components of AWS Direct Connect
--
 
 ##### [3.3 Inter-Region VPC Peering](./Module-3/3.3-Inter-Region-VPC-Peering.md)
 
@@ -57,25 +56,25 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 4: Advanced Networking Features
 
-##### 4.1 **Elastic Load Balancing (ELB):**
+##### [4.1 Elastic Load Balancing (ELB)](./Module-4/4.1-Elastic-Load-Balancing.md)
 
 - Application Load Balancer (ALB) and Network Load Balancer (NLB) configurations.
 - Utilizing PaaS offerings for load balancing.
 
-##### 4.2 **Amazon Route 53:**
+##### [4.2 Amazon Route 53](./Module-4/4.2-Amazon-Route-53.md)
 
 - Understanding DNS in AWS.
 - Configuring Route 53 for various scenarios.
 
 ### Module 5: Network Monitoring and Troubleshooting
 
-##### 5.1 **VPC Flow Logs and CloudWatch Logs:**
+##### [5.1 VPC Flow Logs and CloudWatch Logs](./Module-5/5.1-VPC-Flow-Logs-CloudWatch-Logs.md)
 
 - Monitoring network traffic in VPCs.
 - Analyzing logs for troubleshooting.
 - Monitoring PaaS and SaaS performance.
 
-##### 5.2 **AWS CloudTrail:**
+##### [5.2 AWS CloudTrail](./Module-5/5.2-AWS-CloudTrail.md)
 
 - Logging and auditing changes to your AWS resources.
 
