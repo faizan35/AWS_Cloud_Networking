@@ -80,13 +80,13 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 6: Optimization and Best Practices
 
-##### 6.1 **Optimizing Network Performance:**
+##### [6.1 Optimizing Network Performance](./Module-6/6.1-Optimizing-Network-Performance.md)
 
 - Content Delivery Network (CDN) using Amazon CloudFront.
 - Fine-tuning for high availability and performance.
 - Best practices for utilizing IaaS resources.
 
-##### 6.2 **Best Practices and Cost Optimization:**
+##### [6.2 Best Practices and Cost Optimization](./Module-6/6.2-Best-Practices-Cost-Optimization.md)
 
 - Implementing cost-effective solutions.
 - AWS Well-Architected Framework for networking.
