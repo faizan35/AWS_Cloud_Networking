@@ -38,13 +38,20 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 3: Connectivity Options
 
-##### 3.1 **Connecting to On-Premises Networks:**
+##### [3.1 VPN (Virtual Private Network) in AWS](./Module-3/3.1-VPN.md)
 
-- VPN (Virtual Private Network) connections.
-- AWS Direct Connect.
-- Exploring PaaS and SaaS connectivity options.
+- Types of AWS VPN
+- Components of AWS VPN, VPN Protocols
+- AWS Site-to-Site VPN Configuration Steps
+- AWS Client VPN Configuration Steps
 
-##### 3.2 **Inter-Region VPC Peering:**
+##### [3.2 AWS Direct Connect](./Module-3/3.2-AWS-Direct-Connect.md)
+
+- AWS Direct Connect Vs AWS VPN
+- Components of AWS Direct Connect
+-
+
+##### [3.3 Inter-Region VPC Peering](./Module-3/3.3-Inter-Region-VPC-Peering.md)
 
 - Connecting VPCs across different regions.
 
