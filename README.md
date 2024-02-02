@@ -93,13 +93,13 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 7: Automation and Infrastructure as Code (IaC)
 
-##### 7.1 **AWS CloudFormation:**
+##### [7.1 AWS CloudFormation](./Module-7/7.1-AWS-CloudFormation.md)
 
 - Introduction to Infrastructure as Code (IaC).
 - Writing CloudFormation templates for networking resources.
 - Automating PaaS and SaaS deployments.
 
-##### 7.2 **DevOps Integration:**
+##### [7.2 DevOps Integration](./Module-7/7.2-DevOps-Integration.md)
 
 - Integrating AWS networking with CI/CD pipelines.
 - Automation using AWS CLI, SDKs, and additional tools like Terraform.
