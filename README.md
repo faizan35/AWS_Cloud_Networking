@@ -106,7 +106,7 @@ This repository aims to provide structured resources and a detailed syllabus for
 
 ### Module 8: Project and Real-world Scenarios
 
-##### 8.1 **Capstone Project:**
+##### [8.1 Capstone Project (Optional)](./Module-8/8.1-Capstone-Project.md)
 
 - Design and implement a cloud networking solution for a hypothetical application.
 - Address security, scalability, and performance considerations.
